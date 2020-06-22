@@ -5,7 +5,7 @@ import { Observable } from 'rxjs';
 import { Pessoa } from './pessoa.interface'
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root' 
 })
 export class PessoaService {
 
